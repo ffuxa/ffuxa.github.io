@@ -1,0 +1,13 @@
+{
+  "short_name": "Fabian Fuxa",
+  "name": "Fabian Fuxa",
+  "icons": [
+    {
+      "src": "images/f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+}

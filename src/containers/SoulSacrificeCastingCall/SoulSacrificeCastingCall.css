@@ -1,0 +1,73 @@
+#casting-call-container {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    padding: 40px 100px;
+}
+
+#casting-call-title-top {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 54px;
+    font-weight: bold;
+    color: crimson;
+}
+
+#casting-call-brought-by {
+    color: hotpink;
+}
+
+#casting-call-oh-boy {
+    color: orange;
+}
+
+#casting-call-one {
+    color: deepskyblue;
+}
+
+#casting-call-two {
+    color: tomato;
+}
+
+#casting-call-three {
+    color: tan;
+}
+
+#casting-call-four {
+    color: chocolate;
+}
+
+#casting-call-five {
+    color: fuchsia;
+}
+
+#casting-call-what-i-need {
+    color: aqua;
+}
+
+#casting-call-instruments {
+    color: azure;
+}
+
+.casting-call-inst {
+    color: bisque;
+    font-size: 30px;
+}
+
+#casting-call-qa-title {
+    color: azure;
+}
+
+.casting-call-question {
+    color: chartreuse;
+}
+
+.casting-call-answer {
+    color: #FBFBF1;
+}
+
+#casting-call-casting-info {
+    text-align: center;
+}
