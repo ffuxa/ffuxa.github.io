@@ -38,7 +38,7 @@ function SoulSacrificeCastingCall() {
           <a href="https://www.noteflight.com/scores/view/b627d52ab351d29a5044ef55ebbeb175e740bbef">
             {' here\'s the noteflight '}
           </a>.
-          {'It\'s missing the drum solo, keyboard solo, and ending, but it\'s at least 60% done at this point.'}
+          {'It\'s missing the drum solo, entire keyboard part (recent addition), and ending, but it\'s at least 60% done at this point.'}
         </h3>
         <br />
         <h3 id="casting-call-five">
