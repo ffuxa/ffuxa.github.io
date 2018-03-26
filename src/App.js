@@ -15,7 +15,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route path="/sudoku" component={SudokuSolver} />
         <Route path="/soulsacrifice" component={SoulSacrificeCastingCall} />
-        <Route path="/a_complete_guide_to_human_norms_and_culture_vol3" component={RickAstley} />
+        <Route path="/my_story" component={RickAstley} />
       </div>
     </Router>
   );
