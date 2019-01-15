@@ -3,9 +3,12 @@
   "version": "5.1.0",
   "private": true,
   "description": "Single Page Apps for GitHub Pages",
+  "homepage": "https://ffuxa.github.io/",
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,6 +19,7 @@
   "dependencies": {
     "bootstrap": "^4.2.1",
     "css-loader": "^0.28.7",
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.6.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",

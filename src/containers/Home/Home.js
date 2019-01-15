@@ -95,20 +95,30 @@ function Home() {
 
           <b>Life goals:</b>
           <ul>
-            <li>Get a job!</li>
-            <li>Travel!</li>
-            <li>Make some money!</li>
+            <li>Get a job</li>
+            <li>Travel</li>
+            <li>Make some money</li>
             <li>Retire and live as a wise old man in the beaches of Puerto Rico</li>
           </ul>
           <br />
 
           <b>Interests:</b>
           <ul>
-            <li>Mobile and Web Development</li>
-            <li>Distributed Systems</li>
-            <li>Design and Architecture</li>
+            <li>Mobile and web development</li>
+            <li>Backend systems architecture</li>
+            <li>Accessible software design</li>
             <li>Playing drums/guitar/any instrument I can get my hands on</li>
             <li>Cooking</li>
+          </ul>
+
+          <b>Past Coursework:</b>
+          <ul>
+            <li>EECS 591: Distributed Systems</li>
+            <li>EECS 495: Accessible Software Systems Design</li>
+            <li>EECS 493: Artificial Intelligence</li>
+            <li>EECS 492: User Interfaces</li>
+            <li>EECS 482: Operating Systems</li>
+            <li>EECS 388: Computer Security</li>
           </ul>
 
           <br />
