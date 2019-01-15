@@ -110,6 +110,7 @@ function Home() {
             <li>Playing drums/guitar/any instrument I can get my hands on</li>
             <li>Cooking</li>
           </ul>
+          <br />
 
           <b>Past Coursework:</b>
           <ul>
