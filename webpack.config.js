@@ -27,6 +27,10 @@ module.exports = {
         test: /\.pdf$/,
         loader: 'url-loader',
       },
+      {
+        test: /\.mp3$/,
+        loader: 'url-loader',
+      }
     ],
   },
 
