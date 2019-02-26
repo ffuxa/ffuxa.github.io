@@ -19,7 +19,7 @@ function App() {
         <Route path="/soulsacrifice" component={SoulSacrificeCastingCall} />
         <Route path="/my_story" component={RickAstley} />
         <Route path="/castingcall2" component={CastingCallNumeroDos} />
-        {/*<Route path="/casting2" component={CastingNumeroDos} />*/}
+        <Route path="/casting2" component={CastingNumeroDos} />
       </div>
     </Router>
   );
