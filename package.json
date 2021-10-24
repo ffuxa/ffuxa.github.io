@@ -1,8 +1,8 @@
 {
-  "name": "spa-github-pages",
+  "name": "fafuxa-github-io",
   "version": "5.1.0",
   "private": true,
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "Personal website for fafuxa",
   "homepage": "https://ffuxa.github.io/",
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": "git+https://github.com/ffuxa/ffuxa.github.io"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Fabian Fuxa",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.6.0",
     "css-loader": "^0.28.7",
     "gh-pages": "^2.0.1",
     "prop-types": "^15.6.0",
