@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Automatically fix ESLint issues on save
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    // Disable default format on save so it doesn't clash with eslint autofix
+    "[typescript]": {
+        "editor.formatOnSave": false
+    },
+    "[typescriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "[javascript]": {
+        "editor.formatOnSave": false
+    }
+}
