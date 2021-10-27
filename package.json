@@ -3,7 +3,7 @@
   "version": "5.1.0",
   "private": true,
   "description": "Personal website for fafuxa",
-  "homepage": "http://ffuxa.github.io/ffuxa.github.io",
+  "homepage": "https://ffuxa.github.io/ffuxa.github.io",
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
     "build": "webpack --mode production",
